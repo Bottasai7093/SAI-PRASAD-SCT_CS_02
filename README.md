@@ -1,24 +1,3 @@
-A Python program to encrypt and decrypt images using pixel manipulation techniques. This tool demonstrates how to use basic image processing operations for lightweight security, offering a fun and educational introduction to image encryption.
-
- 0 stars
- 0 forks
- 1 watching
- 1 Branch
- 0 Tags
- Activity
-Public repository
-SUHAS-HAR1SH/SCT_CS_02
-Name	
-SUHAS-HAR1SH
-SUHAS-HAR1SH
-3 months ago
-Image_encryption.py
-3 months ago
-README.md
-3 months ago
-Repository files navigation
-README
-SCT_CS_02
 🔒 Image Encryption Tool
 
 A Python program to encrypt and decrypt images using pixel manipulation techniques. This tool demonstrates how to use basic image processing operations for lightweight security, offering a fun and educational introduction to image encryption.
@@ -75,7 +54,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/SAI-PRASAD-SCT_CS_02.git cd Image_encryption.py
+git clone https://github.com/Bottasai7093/SAI-PRASAD-SCT_CS_02.git cd Image_encryption.py
 
 Example usage
 image_path = r"" encrypted_image = encrypt_image(image_path, 'swap') encrypted_image.save(r"")
